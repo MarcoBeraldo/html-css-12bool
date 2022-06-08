@@ -11,7 +11,15 @@
     margin: 0 auto;
 }
 
+.d-flex {
+    display: flex;
+}
 
+.d-flex-col {
+    display: flex;
+    flex-direction: column;
+
+}
 
 /* rows */
 

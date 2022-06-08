@@ -1,0 +1,117 @@
+.container {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+.mb-30 {
+    margin-bottom: 30px;
+}
+
+[class^='col'].bg-green {
+    background-color: green;
+    border: 1px solid dodgerblue;
+}
+
+[class^='col'] {
+    background-color: dodgerblue;
+    padding: 20px;
+    border: 1px solid white;
+    color: white;
+}
+
+[class^='col'].h-100 {
+    height: 100px;
+}
+
+h2 {
+    margin: 20px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .row>[class^='col'] {
+    background-color: dodgerblue;
+    border: 1px solid white;
+    width: 100%;
+}
+
+[class^='col'] {
+   
+    color: white;
+    height: 50px
+}
+
+.row>.col-7>.row>[class^='col'],
+.row>.col-5>.row>[class^='col'],
+.row>.col-6>.row>[class^='col'] {
+    background-color: green;
+    height: 50px;
+    border: 1px solid dodgerblue;
+}
+
+.row:nth-child(3)>[class^='col'],
+.row:nth-child(2)>[class^='col'] {
+    height: 60px;
+}
+
+
+#alignment .col-6>.col-4 {
+    height: 150px
+}
+
+#alignment [class^='col'] {
+    border: 1px solid white;
+
+} */
